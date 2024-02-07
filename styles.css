@@ -1,6 +1,6 @@
 body {
     font-family: 'Happy Monkey', system-ui;
-    background: linear-gradient(#a2d2ff, #efb0c9);
+    background: linear-gradient(#a2d2ff, red);
     color: #ffffff;
     display: flex;
     flex-direction: column;
